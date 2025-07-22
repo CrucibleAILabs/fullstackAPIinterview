@@ -1,0 +1,249 @@
+# =================================
+# Environment & Configuration
+# =================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =================================
+# Dependencies
+# =================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Go
+vendor/
+*.exe
+*.exe~
+
+# Rust
+target/
+Cargo.lock
+
+# =================================
+# Logs & Debugging
+# =================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# =================================
+# Database Files
+# =================================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+database.db
+wallet.db
+
+# PostgreSQL
+*.dump
+*.sql
+
+# =================================
+# Security & Keys
+# =================================
+# Private keys and certificates
+*.key
+*.pem
+*.p12
+*.pfx
+ssl/
+certificates/
+keys/
+
+# JWT secrets and other sensitive files
+secrets/
+.secrets
+auth/
+*.secret
+
+# =================================
+# Build Outputs
+# =================================
+dist/
+build/
+out/
+.next/
+coverage/
+*.tgz
+*.tar.gz
+
+# TypeScript
+*.tsbuildinfo
+
+# =================================
+# IDE & Editor Files
+# =================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Vim
+*.vim
+.vimrc.local
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# =================================
+# Testing
+# =================================
+coverage/
+*.lcov
+.nyc_output/
+test-results/
+junit.xml
+
+# Jest
+jest_0/
+
+# =================================
+# Docker
+# =================================
+# Ignore Docker override files
+docker-compose.override.yml
+
+# =================================
+# Backup Files
+# =================================
+backups/
+*.backup
+*.bak
+*.tmp
+
+# =================================
+# OS Generated Files
+# =================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =================================
+# Documentation Build
+# =================================
+docs/build/
+site/
+
+# =================================
+# Monitoring & Metrics
+# =================================
+metrics/
+prometheus/
+
+# =================================
+# Temporary Files
+# =================================
+tmp/
+temp/
+*.temp
+
+# =================================
+# Application Specific
+# =================================
+# Wallet-specific sensitive data
+wallets/
+encrypted_keys/
+mnemonic_backups/
+
+# Transaction logs (if storing locally)
+transactions/
+audit_logs/
+
+# Performance and profiling
+*.prof
+*.trace
+
+# Cache directories
+.cache/
+.npm/
+.eslintcache
+
+# =================================
+# Deployment & Infrastructure
+# =================================
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Kubernetes
+*.kubeconfig
+
+# Deployment configs with secrets
+deploy/*.secret.yml
+deploy/*.secret.yaml
+
+# =================================
+# Package Manager
+# =================================
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# =================================
+# Security Scanning
+# =================================
+# Vulnerability reports
+vulnerability-report.*
+security-report.*
+
+# =================================
+# Development Tools
+# =================================
+# Mock data (if sensitive)
+mock-data/
+seed-data/
+
+# Development databases
+dev.db
+test.db
+
+# API client generated files
+api-client/ 
