@@ -1,4 +1,4 @@
-# 🔐 Full Stack (Backend-focussed) Coding Challenge: Bittensor (TAO) Wallet API
+# 🔐 Full Stack (Backend-focused) Coding Challenge: Bittensor (TAO) Wallet API
 
 ## 📘 Overview
 
