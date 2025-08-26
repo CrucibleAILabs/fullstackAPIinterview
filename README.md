@@ -51,11 +51,9 @@ Your implementation **must** demonstrate:
 
 ## 🏗️ Technical Requirements
 
-### Backend Stack (Choose Your Preference)
+### Backend Stack (Choose Your Preference, we prefer Typescript+Python)
 - **Node.js** (Express/Fastify) + TypeScript
 - **Python** (FastAPI/Django) 
-- **Go** (Gin/Echo)
-- **Rust** (Axum/Actix)
 
 ### Database
 - Design appropriate schema for wallet storage
