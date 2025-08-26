@@ -189,6 +189,6 @@ Submit a **public GitHub repository** with:
 
 ---
 
-*This challenge is designed to evaluate real-world backend development skills, security awareness, and API design capabilities. Focus on code quality, security, and documentation over feature completeness. 
+*This challenge is designed to evaluate real-world backend development skills, security awareness, and API design capabilities. Focus on code quality, security, and documentation over feature completeness.* 
 
-Feel free to use all the tools that you wish that are at your disposal. Use AI tools if you find them necessary! But, just know that in the technical interview where we go over the submission, we might ask you to think deeply and replicate some aspects of the code without AI assistance.* 
+*Feel free to use all the tools that you wish that are at your disposal. Use AI tools if you find them necessary! But, just know that in the technical interview where we go over the submission, we might ask you to think deeply and replicate some aspects of the code without AI assistance.* 
